@@ -2,7 +2,7 @@
 
 Submitted by: **Muhammad Taha**
 
-**Wordle** is an app that ... [TODO] 
+**Wordle** is an app that You will have a set number of chances to correctly guess a secret word in each round. You'll get hints for each guess that show which letters are in the word and where they're located. You want to figure out the secret word using these hints before you run out of chances.
 
 Time spent: **5** hours spent in total
 
@@ -10,7 +10,7 @@ Time spent: **5** hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] App displays a keyboard on the screen
+- [ *] App displays a keyboard on the screen
 - [ ] When tapping on the keyboard, a letter is shown or deleted (letter selected)
 - [ ] User can play a basic version of Wordle, with different goal words each time
 
